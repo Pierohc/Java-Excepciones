@@ -118,10 +118,26 @@ Otra forma si no importa saber que excepción se ejecutará:
 -------
 # OJO:
 Creamos un metodo en una clase diferente al MAIN:
-![image](https://github.com/Pierohc/Java-Excepciones/assets/133154904/4ba58949-ec03-4e90-a0ea-9d46e198daa1)
+![image](https://github.com/Pierohc/Java-Excepciones/assets/133154904/27ef47bb-5258-4f3d-8aba-a4b1de6acc63)
 
+La invoco en el MAIN con su respectivo try y catch:
+![image](https://github.com/Pierohc/Java-Excepciones/assets/133154904/c2ba9dd9-1b5d-4f13-a01e-2c35b985c489)
 
 ## Crear mis propias excepciones:
+
+La creo en una nueva clase:
+![image](https://github.com/Pierohc/Java-Excepciones/assets/133154904/ee2e871e-b04f-495c-ab1e-0527720ec4c9)
+
+La llamo en una clase:
+![image](https://github.com/Pierohc/Java-Excepciones/assets/133154904/a547957d-574c-4a3e-8eb5-69cf949d47c8)
+Cuando un metodo tiene un throw dentro se vuelve un checked exception 
+
+En el main:
+
+![image](https://github.com/Pierohc/Java-Excepciones/assets/133154904/6de4d9b2-5e9e-44b1-8264-1461a6380e6d)
+Consola:
+![image](https://github.com/Pierohc/Java-Excepciones/assets/133154904/96647e32-8f5e-45c8-8980-eb7712221f07)
+
 
 
 
